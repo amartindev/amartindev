@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Antonio, a passionate web developer, 👨‍💻 currently following a Full-Stack developer roadmap. 🚀</div>  
   
 
-- 🌱 I’m currently learning React.js and TypeScript  
+- 🌱 I’m currently learning React.js 
   
 
 - 📫 How to reach me: amartindev02@gmail.com  
