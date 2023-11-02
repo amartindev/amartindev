@@ -64,12 +64,9 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartindev&show_icons=true&theme=cobalt&locale=en" alt="amartindev" /></p>
 </div>
 
-###
 
 
