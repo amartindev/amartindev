@@ -1,5 +1,5 @@
 
-### <div align="center">Hi, I'm Antonio, a passionate web developer, 👨‍💻 currently following a Full-Stack developer roadmap. 🚀</div>  
+### <div align="center">Hi, I'm Antonio, a Full-Stack developer. 🚀</div>  
   
 
 - 📫 How to reach me: amartindev02@gmail.com  
